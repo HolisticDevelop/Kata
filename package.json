@@ -1,0 +1,16 @@
+{
+  "name": "challenges",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ch1.js",
+    "ch1": "node ch1.js",
+    "ch2": "node ch2.js",
+    "ch3": "node ch3.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
